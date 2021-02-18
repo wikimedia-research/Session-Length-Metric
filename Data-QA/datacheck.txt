@@ -1,0 +1,6 @@
+perform Data QA on the session length data
+Scope:
+This will consist of the following sub tasks:
+1] mediawiki_client_session_tick : QA the Raw data for session length
+2] QA the session tick aggregated/roll-up data (Refer T271455)
+3] Superset dashboard QA
